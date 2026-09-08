@@ -16,7 +16,7 @@ Website institucional e sistema de agendamento de consultas da **SixStar Clinic*
 | <img src="https://github.com/Geovana28.png" width="40px" style="border-radius:50%"> | Geovana Moreira | `202603656934` | [@Geovana28](https://github.com/Geovana28) | **líder** |
 | <img src="https://github.com/Devfrzz.png" width="40px" style="border-radius:50%"> | Gabriel Ferraz | `202601484478` | [Devfrzz](https://github.com/Devfrzz) | integrante |
 | 👤 | Daniel Santos| `202602575281` | [@Daizen-Creator](https://github.com/Daizen-Creator) | integrante |
-| 👤 | Maria Eduarda Nascimento Nascimento Silva | `202601547003 ` | [@Mariaeduarda137](https://github.com/Mariaeduarda137) | integrante |
+| 👤 | Maria Eduarda Nascimento Silva | `202601547003 ` | [@Mariaeduarda137](https://github.com/Mariaeduarda137) | integrante |
 | 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com) | integrante |
 | 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com) | integrante |
 
