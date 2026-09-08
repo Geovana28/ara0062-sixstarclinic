@@ -17,7 +17,7 @@ Website institucional e sistema de agendamento de consultas da **SixStar Clinic*
 | <img src="https://github.com/Devfrzz.png" width="40px" style="border-radius:50%"> | Gabriel Ferraz | `202601484478` | [Devfrzz](https://github.com/Devfrzz) | integrante |
 | 👤 | Daniel Santos| `202602575281` | [@Daizen-Creator](https://github.com/Daizen-Creator) | integrante |
 | 👤 | Maria Eduarda Nascimento Silva | `202601547003 ` | [@Mariaeduarda137](https://github.com/Mariaeduarda137) | integrante |
-| 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com) | integrante |
+| 👤 | Angelina Damasceno | `202602060418` | [@Angesty](https://github.com/Angesty) | integrante |
 | 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com) | integrante |
 
 Cada integrante acrescenta ou confirma a **sua própria linha** nesta tabela, pelo GitHub.
