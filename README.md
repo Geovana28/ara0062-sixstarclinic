@@ -14,8 +14,8 @@ Website institucional e sistema de agendamento de consultas da **SixStar Clinic*
 | Foto | Nome completo | Matrícula | GitHub | Papel |
 | :---: | :--- | :---: | :--- | :---: |
 | <img src="https://github.com/Geovana28.png" width="40px" style="border-radius:50%"> | Geovana Moreira | `202603656934` | [@Geovana28](https://github.com/Geovana28) | **líder** |
-| 👤 | [Gabriel Ferraz] | `202601484478` | [Devfrzz](https://github.com) | integrante |
-| 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com/Devfrzz) | integrante |
+| <img src="https://github.com/Devfrzz.png" width="40px" style="border-radius:50%"> | Gabriel Ferraz | `202601484478` | [Devfrzz](https://github.com/Devfrzz) | integrante |
+| 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com) | integrante |
 | 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com) | integrante |
 | 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com) | integrante |
 | 👤 | [Nome Completo] | `2026xxxxx` | [@usuario-github](https://github.com) | integrante |
